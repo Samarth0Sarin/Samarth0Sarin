@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samarth0Sarin
+- 👋 Hi, I’m Samarth Sarin
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m studying for an Honors Bachelor of Computer Science with a specialization in Data Analytics @ Trent University.
 - 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/samarth-sarin/
